@@ -13,7 +13,7 @@
 	url = ../../p12tic/libsimdpp.git
 [submodule "external/meta"]
 	path = external/meta
-	url = ../../ericniebler/meta.git
+	url = ../../rogerwwww/meta.git
 [submodule "external/TCLAP"]
 	path = external/TCLAP
 	url = ../../mirror/tclap.git
