@@ -22,7 +22,7 @@
 	url = ssh://git@github.com/pawelswoboda/BCFW-Bundle.git
 [submodule "external/DD_ILP"]
 	path = external/DD_ILP
-	url = ssh://git@github.com/pawelswoboda/DD_ILP.git
+	url = ssh://git@github.com/rogerwwww/DD_ILP.git
 [submodule "external/ConicBundle"]
 	path = external/ConicBundle
 	url = ssh://git@github.com/pawelswoboda/ConicBundle.git
