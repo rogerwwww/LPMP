@@ -56,4 +56,4 @@
 	branch = release
 [submodule "LifT_Solver"]
 	path = external/LifT_Solver
-	url = ../../AndreaHor/LifT_Solver.git
+	url = ../../rogerwwww/LifT_Solver.git
