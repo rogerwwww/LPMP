@@ -1,59 +1,59 @@
 [submodule "external/qpbo"]
 	path = external/qpbo
-	url = ssh://git@github.com/DerThorsten/qpbo.git
+	url = ../../DerThorsten/qpbo.git
 [submodule "external/PEGTL"]
 	path = external/PEGTL
-	url = ssh://git@github.com/taocpp/PEGTL.git
+	url = ../../taocpp/PEGTL.git
 	branch = 1.x
 [submodule "external/maxflow"]
 	path = external/maxflow
-	url = ssh://git@github.com/DerThorsten/maxflow.git
+	url = ../../DerThorsten/maxflow.git
 [submodule "external/libsimdpp"]
 	path = external/libsimdpp
-	url = ssh://git@github.com/p12tic/libsimdpp.git
+	url = ../../p12tic/libsimdpp.git
 [submodule "external/meta"]
 	path = external/meta
-	url = ssh://git@github.com/ericniebler/meta.git
+	url = ../../ericniebler/meta.git
 [submodule "external/TCLAP"]
 	path = external/TCLAP
-	url = ssh://git@github.com/mirror/tclap.git
+	url = ../../mirror/tclap.git
 [submodule "external/BCFW-Bundle"]
 	path = external/BCFW-Bundle
-	url = ssh://git@github.com/pawelswoboda/BCFW-Bundle.git
+	url = ../../pawelswoboda/BCFW-Bundle.git
 [submodule "external/DD_ILP"]
 	path = external/DD_ILP
-	url = ssh://git@github.com/rogerwwww/DD_ILP.git
+	url = ../../rogerwwww/DD_ILP.git
 [submodule "external/ConicBundle"]
 	path = external/ConicBundle
-	url = ssh://git@github.com/pawelswoboda/ConicBundle.git
+	url = ../../pawelswoboda/ConicBundle.git
 [submodule "external/arboricity"]
 	path = external/arboricity
-	url = ssh://git@github.com/pawelswoboda/arboricity.git
+	url = ../../pawelswoboda/arboricity.git
 [submodule "external/opengm"]
 	path = external/opengm
-	url = ssh://git@github.com/opengm/opengm.git
+	url = ../../opengm/opengm.git
 [submodule "external/MCF-SSP"]
 	path = external/MCF-SSP
-	url = ssh://git@github.com/pawelswoboda/MCF-SSP.git
+	url = ../../pawelswoboda/MCF-SSP.git
 [submodule "external/andres-graph"]
 	path = external/andres-graph
-	url = ssh://git@github.com/bjoern-andres/graph.git
+	url = ../../bjoern-andres/graph.git
 [submodule "external/Eigen"]
 	path = external/Eigen
 	url = https://gitlab.com/libeigen/eigen.git
 [submodule "external/tsl-robin-map"]
 	path = external/tsl-robin-map
-	url = ssh://git@github.com/Tessil/robin-map.git
+	url = ../../Tessil/robin-map.git
 [submodule "external/cpp-taskflow"]
 	path = external/cpp-taskflow
-	url = ssh://git@github.com/cpp-taskflow/cpp-taskflow.git
+	url = ../../cpp-taskflow/cpp-taskflow.git
 [submodule "external/pybind11"]
 	path = external/pybind11
-	url = ssh://git@github.com/pybind/pybind11.git
+	url = ../../pybind/pybind11.git
 [submodule "external/cudd"]
 	path = external/cudd
-	url = ssh://git@github.com/ivmai/cudd.git
+	url = ../../ivmai/cudd.git
 	branch = release
 [submodule "LifT_Solver"]
 	path = external/LifT_Solver
-	url = ssh://git@github.com/AndreaHor/LifT_Solver.git
+	url = ../../AndreaHor/LifT_Solver.git
